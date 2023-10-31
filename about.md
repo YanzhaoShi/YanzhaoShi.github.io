@@ -8,9 +8,9 @@ permalink: /about/
 
 I am a Master's student at Beijing University of Technology, with a primary focus on the field of Medical Artificial Intelligence. I have a strong passion for research, dedicating myself to the exploration of scientific inquiries and immersing myself in my research work.
 
-During my undergraduate years, I consistently maintained the highest academic performance in my field, earning numerous academic scholarships and honors, including the First Class Scholarship and the Provincial Excellent Graduate. These achievements ultimately granted me the opportunity to pursue a graduate degree.
+During my undergraduate years, I consistently maintained the highest Academic GPA in my major (1/78), earning numerous academic scholarships and honors, including the First Class Scholarship and the Provincial Excellent Graduate. These achievements ultimately granted me the opportunity to be an exam-exempted postgraduate.
 
-Throughout my Master's program, I have consistently ranked at the top of my class, receiving the First-Class Academic Scholarship multiple times. This academic success reflects my strong commitment to learning and continuous improvement.
+Throughout my Master's program, I have consistently achieved the highest GPA of my major (1/65), receiving the First-Class Academic Scholarship multiple times. This academic success reflects my strong commitment to learning and continuous improvement.
 
 <h1>Education & Career History</h1>    
 <ul>
