@@ -5,11 +5,12 @@ permalink: /about/
 ---
 <!-- I am a senior economist at the Federal Reserve Board. I also work as an adjunct professor at the University of Maryland in the Robert H. Smith School of Business where I have taught classes on Text Mining and Financial Analytics. Previously, from 2018-2022, I was a financial economist at the Federal Deposit Insurance Corporate (FDIC) where I conducted banking research and developed models to support FDIC operations. In July 2018, I finished my PhD in Economics from the Universitat Pompeu Fabra and Barcelona School of Economics. I started my academic career in mathematics, with a Bachelor's degree in Applied Mathematics from University of California, Berkeley. During my PhD, I spent time working alongside other central banks through an 8 month visit in Germany at the Deutsche Bundesbank and research projects with the Banco de la Rep&uacute;blica of Colombia. Previously, I did internships in the credit department of Moody's Analytics and in various investment funds. Outside of economics and finance, I like learning about natural language processing, innovations in machine learning, Brazilian Jiu Jitsu, and improv comedy.    -->
 
-I am a Master's student at Beijing University of Technology, with a primary focus on the field of Medical Artificial Intelligence. I have a strong passion for research, dedicating myself to the exploration of scientific inquiries and immersing myself in my research work.
+My name is Yanzhao Shi, a Master's student at Beijing University of Technology, major in the computer science and technology, with a primary focus on the field of Medical Artificial Intelligence. 
+I have a strong passion for research, dedicating myself to the exploration of scientific inquiries and immersing myself in my research work.
 
-During my undergraduate years, I consistently maintained the highest Academic GPA in my major (1/78), earning numerous academic scholarships and honors, including the First Class Scholarship and the Provincial Excellent Graduate. These achievements ultimately granted me the opportunity to be an exam-exempted postgraduate.
+During my undergraduate years, I maintained the highest Academic GPA in my major <strong>(rank 1/78)</strong> , earning numerous academic scholarships and honors, including the First Class Scholarship and the Provincial Excellent Graduate. These achievements ultimately granted me the opportunity to be an <strong>exam-exempted postgraduate</strong>.
 
-Throughout my Master's program, I have consistently achieved the highest GPA of my major (1/65), receiving the First-Class Academic Scholarship multiple times. This academic success reflects my strong commitment to learning and continuous improvement.
+Throughout my Master's program, I have achieved the highest GPA of my major <strong>(rank 1/65)</strong> , receiving the First-Class Academic Scholarship multiple times. This academic success reflects my strong commitment to learning and continuous improvement.
 
 <h1>Education & Career History</h1>    
 <ul>
