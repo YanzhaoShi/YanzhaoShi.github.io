@@ -1,0 +1,7 @@
+@article{zhang2023weakly,
+  title={Weakly guided attention model with hierarchical interaction for brain CT report generation},
+  author={Zhang, Xiaodan and Yang, Sisi and Shi, Yanzhao and Ji, Junzhong and Liu, Ying and Wang, Zheng and Xu, Huimin},
+  journal={Computers in Biology and Medicine},
+  pages={107650},
+  year={2023}
+}

@@ -1,0 +1,13 @@
+@inproceedings{Shi2023Granularity,
+  author       = {Yanzhao Shi and
+                  Junzhong Ji and
+                  Xiaodan Zhang and
+                  Liangqiong Qu and
+                  Ying Liu},
+  title        = {Granularity Matters: Pathological Graph-driven Cross-modal Alignment
+                  for Brain {CT} Report Generation},
+  booktitle    = {Proceedings of the 2023 Conference on Empirical Methods in Natural
+                  Language Processing, {EMNLP}},
+  pages        = {6617--6630},
+  year         = {2023}
+}
