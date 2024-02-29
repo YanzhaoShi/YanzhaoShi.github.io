@@ -1,0 +1,7 @@
+@article{Shen2024GHCLGH,
+  title={GHCL: Gaussian heuristic curriculum learning for Brain CT report generation},
+  author={Qingya Shen and Yanzhao Shi and Xiaodan Zhang and Junzhong Ji and Ying Liu and Huimin Xu},
+  journal={Multimedia Systems},
+  year={2024},
+  url={https://api.semanticscholar.org/CorpusID:267947170}
+}
