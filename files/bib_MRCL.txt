@@ -1,0 +1,20 @@
+TY  - JOUR
+AU  - Shi, Yanzhao
+AU  - Ji, Junzhong
+AU  - Zhang, Xiaodan
+AU  - Liu, Ying
+AU  - Wang, Zheng
+AU  - Xu, Huimin
+PY  - 2024
+DA  - 2024/03/27
+TI  - Prior tissue knowledge-driven contrastive learning for brain CT report generation
+JO  - Multimedia Systems
+SP  - 98
+VL  - 30
+IS  - 2
+AB  - Writing medical reports for brain computed tomography (CT) is essential for radiologists to diagnose cerebrovascular diseases. Recent advances in medical report generation have driven significant progress in producing accurate descriptions of radiology imaging, especially for chest X-rays. Different from the mainstream chest X-ray report generation task, producing a brain CT report faces extreme challenges for language models: (1) Severe visual data bias led by multiple serialized images and sparse lesions, and (2) serious textual data bias led by unbalanced distributions of pathological words. To alleviate the significant visual and textual data bias, we propose a prior tissue knowledge-driven contrastive learning model to improve brain CT report generation. Specifically, we first summarize prior tissue knowledge from the perspectives of visual and textual modalities, including Scan-Tissue and Report-Tissue labels, to depict the clinical experience of brain specialists and enhance the feature representations. Then, driven by prior tissue knowledge, a multi-label retrieval-based contrastive learning module is proposed to effectively separate positive and negative imaging-report pairs by decreasing the disturbance made by hard-negative samples. In this way, the model can learn the essential and generalized consistency between visual and textual features, which is able to relieve the multimodal data bias and boost the generation of high-quality reports. We comprehensively compare the model with previous state-of-the-art methods on the BCT-CHR dataset. The remarkable performance of our model demonstrates that our knowledge-aware contrastive learning paradigm can effectively benefit the brain CT report generation.
+SN  - 1432-1882
+UR  - https://doi.org/10.1007/s00530-024-01289-w
+DO  - 10.1007/s00530-024-01289-w
+ID  - Shi2024
+ER  - 
