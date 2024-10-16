@@ -7,7 +7,17 @@
 <link rel="stylesheet" href="files/jemdoc.css" type="text/css" />
 <title>Yanzhao Shi-Home Page</title>
 <script data-goatcounter="https://1122.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
-
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+        var img = new Image();
+        img.onload = function() {
+            var count = img.alt;
+            document.getElementById("visitCount").textContent = "访问次数：" + count;
+        };
+        img.src = "https://1122.goatcounter.com/count?p=/your-page-path";
+    });
+    </script>
+    
 <style>
 body {
     padding-left: 10px;
@@ -38,6 +48,8 @@ body {
     
 <div id="toptitle" style="padding-top: 20px;">
 <h1>Yanzhao Shi&nbsp;&nbsp;时彦钊</h1>
+<div id="visitCount">加载访问次数...</div>
+
 </div>
 <!-- https://1122.goatcounter.com/ -->
 
