@@ -9,6 +9,57 @@
 
     
 <style>
+/* General Section Styling */
+.services-section {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    color: #333;
+  }
+
+  .services-section h2 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+    color: #2c3e50;
+  }
+
+  .services-section p {
+    font-size: 1.1rem;
+    margin-bottom: 10px;
+  }
+
+  /* Service Category Styling */
+  .service-category {
+    margin-bottom: 20px;
+  }
+
+  .service-category h3 {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+    color: #34495e;
+  }
+
+  .service-list {
+    list-style-type: none;
+    padding-left: 0;
+  }
+
+  .service-list li {
+    font-size: 1.1rem;
+    margin-bottom: 8px;
+    padding-left: 20px;
+    position: relative;
+  }
+
+  .service-list li::before {
+    content: "•";
+    position: absolute;
+    left: 0;
+    color: #3498db;
+    font-size: 1.2rem;
+  }
+
 body {
     padding-left: 10px;
     padding-right: 10px;
@@ -21,6 +72,7 @@ body {
     }
 }
 </style>
+
 </script>
 </head>
 <body>
@@ -113,7 +165,7 @@ I am dedicated to advancing knowledge in these areas through rigorous research a
     <div style="height: 240px; overflow: auto;">
         <ul> 
             <!-- <li>[2024.09] I received the National Scholarship for Postgraduates.</li> -->
-            <li>[2024.12] One paper was accepted by AAAI 2025 (CCF-A).🎆🎆</li>
+            <li>[2024.12] One paper was accepted by AAAI 2025 (Oral, Top 4.6%) (CCF-A).🎆🎆</li>
             <li>[2024.09] One paper was accepted by EMNLP 2024 Findings.</li>
             <li>[2024.08] We proposed a LLM-based gaming AI (Llama_Dou) that achieves first runner-up at the Chinese Collegiate Computer Gaming AI Contest.</li>
             <li>[2024.02] One paper was accepted by Multimedia Systems (JCR Q1).</li>
@@ -129,11 +181,11 @@ I am dedicated to advancing knowledge in these areas through rigorous research a
 <h2>Awards and Honors</h2>
     <div style="height: 240px; overflow: auto;">
         <ul>
-            <li>2024.11, Xiaomi Grand Prize Scholarship <span style="color: red;">[Top 10 Students in BJUT]</span>  <span style="color: blue;">[20,000 RMB]</span></li>
-            <li>2024.11, Technology Star Nomination Award <span style="color: red;">[Top 13 Students in BJUT]</span></li>
-            <li>2024.10, China National Scholarship <span style="color: blue;">[20,000 RMB]</span></li>
-            <li>2024.10, Outstanding Master's Student Award</li>
-            <li>2024.09, First-Class Academic Scholarship for postgraduates <span style="color: red;">[Rank 1st in major]</span>  <span style="color: blue;">[10,000 RMB]</span></li>
+            <li>2024.12, Xiaomi Grand Prize Scholarship <span style="color: red;">[Top 10 Students in BJUT]</span>  <span style="color: blue;">[20,000 RMB]</span></li>
+            <li>2024.12, Technology Star Nomination Award <span style="color: red;">[Top 20 Students in BJUT]</span></li>
+            <li>2024.12, China National Scholarship <span style="color: blue;">[20,000 RMB]</span></li>
+            <li>2024.12, Outstanding Master's Student Award</li>
+            <li>2024.10, First-Class Academic Scholarship for postgraduates <span style="color: red;">[Rank 1st in major]</span>  <span style="color: blue;">[10,000 RMB]</span></li>
             <li>2024.08, Chinese Collegiate Computer Gaming AI Contest - First Runner-Up</li>
             <li>2023.10, Outstanding Master's Student Award</li>
             <li>2023.10, First-Class Academic Scholarship for postgraduates <span style="color: red;">[Rank 1st in major]</span>  <span style="color: blue;">[10,000 RMB]</span></li>
@@ -156,9 +208,10 @@ I am dedicated to advancing knowledge in these areas through rigorous research a
                 <td style="padding-top: 10px;">
                     <p class="pub_title">MEPNet: Medical Entity-balanced Prompting Network for Brain CT Report Generation.</p>
                     <p class="pub_author">Xiaodan Zhang (<u><b>Supervisor</b></u>), <u><b>Yanzhao Shi</b></u>, Junzhong Ji, Chengxin Zheng, and Liangqiong Qu.<br/>
-                    <i>AAAI Conference on Artificial Intelligence (Supervisor First Author)</i></i><br/>
+                    <i>AAAI Conference on Artificial Intelligence (Supervisor First Author)</i> (<b>Oral Paper, Top 4.6%</b>)<br/>
                     <font color="#922B21"><b>&nbsp;AAAI 2025&nbsp;</b></font>
-                    |<a href= "#">&nbsp;Paper&nbsp;</a>
+                    |<a href= "https://doi.org/10.1609/aaai.v39i24.34788">&nbsp;Paper&nbsp;</a>
+                    |<a href= "https://github.com/YanzhaoShi/MEPNet">&nbsp;Code&nbsp;</a>
                     |<a href="#">&nbsp;Bibtex&nbsp;</a>
                     </p>
                 </td>
@@ -230,13 +283,24 @@ I am dedicated to advancing knowledge in these areas through rigorous research a
 <a id="services" class="anchor"></a>
 <h2>Services</h2>
 
-    
-<p>Reviewer: </p>
-<ul>
-ACM MM 2024; 
+<!-- Conferences -->
+<div>
+    <p>Conference Reviewer:</p>
+    <ul>
+    <li>NIPS 2025</li>
+    <li>ACM MM 2025</li>
+    <li>ACM MM 2024</li>
+    <li>ACL ARR February 2024</li>
+    </ul>
+</div>
 
-ACL ARR February 2024.
-</ul>
+<!-- Journals -->
+<div>
+    <p>Journal Reviewer:</p>
+    <ul>
+    <li>INFORMATION PROCESSING & MANAGEMENT (IF 7.4)</li>
+    </ul>
+</div>
 
 <!-- 访问次数计数器 -->
 <!-- <div id="hit-counter"> -->
