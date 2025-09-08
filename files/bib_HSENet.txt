@@ -1,0 +1,21 @@
+@article{DBLP:journals/corr/abs-2506-09634,
+  author       = {Yanzhao Shi and
+                  Xiaodan Zhang and
+                  Junzhong Ji and
+                  Haoning Jiang and
+                  Chengxin Zheng and
+                  Yinong Wang and
+                  Liangqiong Qu},
+  title        = {HSENet: Hybrid Spatial Encoding Network for 3D Medical Vision-Language
+                  Understanding},
+  journal      = {CoRR},
+  volume       = {abs/2506.09634},
+  year         = {2025},
+  url          = {https://doi.org/10.48550/arXiv.2506.09634},
+  doi          = {10.48550/ARXIV.2506.09634},
+  eprinttype    = {arXiv},
+  eprint       = {2506.09634},
+  timestamp    = {Tue, 08 Jul 2025 20:40:23 +0200},
+  biburl       = {https://dblp.org/rec/journals/corr/abs-2506-09634.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}

@@ -1,0 +1,22 @@
+@inproceedings{DBLP:conf/aaai/0003SJZQ25,
+  author       = {Xiaodan Zhang and
+                  Yanzhao Shi and
+                  Junzhong Ji and
+                  Chengxin Zheng and
+                  Liangqiong Qu},
+  editor       = {Toby Walsh and
+                  Julie Shah and
+                  Zico Kolter},
+  title        = {MEPNet: Medical Entity-Balanced Prompting Network for Brain {CT} Report
+                  Generation},
+  booktitle    = {AAAI-25, Sponsored by the Association for the Advancement of Artificial
+                  Intelligence, February 25 - March 4, 2025, Philadelphia, PA, {USA}},
+  pages        = {25940--25948},
+  publisher    = {{AAAI} Press},
+  year         = {2025},
+  url          = {https://doi.org/10.1609/aaai.v39i24.34788},
+  doi          = {10.1609/AAAI.V39I24.34788},
+  timestamp    = {Sat, 31 May 2025 23:08:21 +0200},
+  biburl       = {https://dblp.org/rec/conf/aaai/0003SJZQ25.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}
